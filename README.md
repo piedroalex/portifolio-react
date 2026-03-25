@@ -3,7 +3,7 @@ Projeto desenvolvido durante a aula de Programação Web do curso de Tecnologia 
 
 ## Observações
 * O projeto desenvolvido nessa seção foi a migração do projeto desenvolvido na aula anterior.
-* Segue o link abaixo: [Clique aqui](https://github.com/piedroalex/portifolio-html-css-js)
+* Segue o link do repositório do projeto: [Clique aqui](https://github.com/piedroalex/portifolio-html-css-js)
 
 ## Atividade Prática
 
@@ -14,3 +14,16 @@ Projeto desenvolvido durante a aula de Programação Web do curso de Tecnologia 
 * Criar o componente ProjectCard.
 * Renderizar a lista de projetos usando .map().
 * Implementar o botão de Dark Mode usando o hook useState.
+
+## Como rodar a aplicação
+
+1. Baixe (ou clone) o repositório para sua máquina
+2. Abra um terminal e navegue até o repositório
+3. Para rodar o projeto, execute os comandos:
+   * ```npm install```
+   * ```npm run dev```
+
+
+## Pré-Requisitos
+
+- [x] [Node.js](https://nodejs.org/en/download)
